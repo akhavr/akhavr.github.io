@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Constructing ERC20 token that would violate Howey test yet would protect investor more than regulator does. 
-Part 1: Security.
+title: Constructing ERC20 token that would violate Howey test yet would protect investor more than regulator does. Part 1: Security.
 ---
 
 ## Motivation
@@ -44,7 +43,7 @@ Let’s take it step by step.
 
 ## It is an investment of money
 
-By using a fairly standart construct we’re creating a Token/Crowdsale that’s exactly “an investment of money” https://github.com/OpenZeppelin/zeppelin-solidity/blob/5aba967db9bbff2089c1dcc855d9d5e83b293389/contracts/crowdsale/Crowdsale.sol#L64
+By using a fairly standart construct we’re creating a `Token/Crowdsale` that’s exactly “an investment of money” https://github.com/OpenZeppelin/zeppelin-solidity/blob/5aba967db9bbff2089c1dcc855d9d5e83b293389/contracts/crowdsale/Crowdsale.sol#L64
 
 ## There’s an expectation of profits from the investment
 This expectation is usually set in a whitepaper or another form of promotional material.  Even if the authors claim that there should be no expectation of profits, contributors usually expect to resell the token at a higher value.
@@ -60,6 +59,7 @@ Enough said.
 See another definition of a common enterprise:
 > In the context of an investment contract, a “common enterprise” is defined as an enterprise in which the fortunes of the investor are interwoven with and dependent upon the efforts and success of those offering or selling the investment or of third parties.
 > https://definitions.uslegal.com/c/common-enterprise/
+
 I understand this, that a person can just make an investment transaction, lay back, and relax.  Other people, for example token project directors or token project officers will do the value-added work, that will, finally, generate dividends.
 That goal is also achieved by inserting a dividend clause into our contract.
 Note that voting is not considered a “significant effort”:
