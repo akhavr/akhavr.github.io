@@ -3,6 +3,8 @@ layout: post
 title: Constructing ERC20 token that would violate Howey test yet would protect investor more than regulator does. Part 1: Security.
 ---
 
+# Constructing ERC20 token that would violate Howey test yet would protect investor more than regulator does. Part 1: Security.
+
 ## Motivation
 
 Money was monopolised by state for more than 100 years now.  Every attempt to issue private money was prosecuted, usually changing the law as it suited those, in power. 
@@ -89,5 +91,6 @@ For more detailed analysis, I refer you to the [SEC Report](https://www.sec.gov/
 ## Conclusion
 
 It's trivial to construct an ERC20 token that would _definitely_ be considered a securities by the US regulators.
+
 In the next post I'll describe how the same construct can provide same or better investor protection than existing law (making regulation an extremely expensive device which has the only rational purpose: to stop innovation)
 
