@@ -3,11 +3,11 @@ layout: post
 title: Constructing ERC20 token that would violate Howey test yet would protect investor more than regulator does. Part 1. Security.
 ---
 
-
+![SEC](https://github.com/akhavr/akhavr.github.io/raw/master/images/pexels-photo-186461.jpeg)
 
 ## Motivation
 
-Money was monopolised by state for more than 100 years now.  Every attempt to issue private money was prosecuted, usually changing the law as it suited those, in power. 
+Money was monopolized by state for more than 100 years now.  Every attempt to issue private money was prosecuted, usually changing the law as it suited those, in power. 
 
 Cryptocurrencies provide the safe haven from regulation attempts since 2009.
 
@@ -53,7 +53,7 @@ Let’s take it step by step.
 
 ## It is an investment of money
 
-By using a [fairly standart construct](https://github.com/OpenZeppelin/zeppelin-solidity/blob/5aba967db9bbff2089c1dcc855d9d5e83b293389/contracts/crowdsale/Crowdsale.sol#L64) we’re creating a `Token/Crowdsale` that’s exactly “an investment of money” 
+By using a [fairly standard construct](https://github.com/OpenZeppelin/zeppelin-solidity/blob/5aba967db9bbff2089c1dcc855d9d5e83b293389/contracts/crowdsale/Crowdsale.sol#L64) we’re creating a `Token/Crowdsale` that’s exactly “an investment of money” 
 
 ## There’s an expectation of profits from the investment
 
@@ -93,3 +93,5 @@ For more detailed analysis, I refer you to the [SEC Report](https://www.sec.gov/
 It's trivial to construct an ERC20 token that would _definitely_ be considered a securities by the US regulators.
 
 In the next post I'll describe how the same construct can provide same or better investor protection than existing law (making regulation an extremely expensive device which has the only rational purpose: to stop innovation)
+
+Comment on [steemit](https://steemit.com/sec/@akhavr/constructing-erc20-token-that-would-violate-howey-test-yet-would-protect-investor-more-than-regulator-does-part-1-security) or on [medium](https://medium.com/@akhavr/constructing-erc20-token-that-would-violate-howey-test-yet-would-protect-investor-more-than-5f3375539f07)
