@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Token vs Regulator. Part 1. Security.
+title: Constructing ERC20 token that would violate Howey test yet would protect investor more than regulator does. Part 1. Security.
 ---
 
-## Constructing ERC20 token that would violate Howey test yet would protect investor more than regulator does. Part 1: Security.
+
 
 ## Motivation
 
