@@ -92,5 +92,4 @@ For more detailed analysis, I refer you to the [SEC Report](https://www.sec.gov/
 
 It's trivial to construct an ERC20 token that would _definitely_ be considered a securities by the US regulators.
 
-In the next post I'll describe how the same construct can provide same or better investor protection than existing law (making regulation an extremely expensive device which has the only rational purpose: to stop innovation)лудн
-
+In the next post I'll describe how the same construct can provide same or better investor protection than existing law (making regulation an extremely expensive device which has the only rational purpose: to stop innovation)
