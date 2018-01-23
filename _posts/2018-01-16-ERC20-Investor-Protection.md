@@ -19,3 +19,5 @@ Within the corporation structure itself there are no special means to influence 
 2. Vote for Directors that sometimes have some influence on the Board of Directors.
 
 Would be great to know that I'm wrong.  Please, share some insight in comments.
+
+Comment on [steemit](https://steemit.com/sec/@akhavr/constructing-erc20-token-that-would-violate-howey-test-yet-would-protect-investor-more-than-regulator-does-part-2-regular) or on [medium](https://medium.com/@akhavr/constructing-erc20-token-that-would-violate-howey-test-yet-would-protect-investor-more-than-daa47414a71d)
