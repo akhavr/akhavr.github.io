@@ -3,6 +3,8 @@ layout: post
 title: Constructing ERC20 token that would violate Howey test yet would protect investor more than regulator does. Part 2. "Regular" investor protection.
 ---
 
+![Investor protection](https://github.com/akhavr/akhavr.github.io/raw/master/images/uk-fca-crowdfunding-alternative-lending-finance-investor-protection-policy-rule-regulation-1000x600.jpg)
+
 Since writing previous article I've tried to research what exact protection does regular markets offer.  So far I wasn't excited.
 
 They operate on several premises:
