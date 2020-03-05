@@ -16,7 +16,7 @@ governance.
 
 ### More Information
 
-See also https://medium.com/@akhavr
+See also [https://medium.com/@akhavr](https://medium.com/@akhavr)
 
 ### Contact me
 
